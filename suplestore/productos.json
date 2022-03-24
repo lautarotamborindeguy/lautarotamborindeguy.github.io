@@ -1,0 +1,63 @@
+[
+    {
+        "id" : 1,
+        "nombre": "Whey Protein",
+        "categoria": "Definición",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare, massa et lacinia tempus, urna lacus vulputate libero, a ornare massa lorem sed orci.",
+        "precio": 2000, 
+        "urlImages": "images/wheyprotein.jpg", 
+        "altImages": "Whey Protein", 
+        "stock": 4
+    },
+    {
+        "id" : 2,
+        "nombre": "Creatina",
+        "categoria": "Definición",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare, massa et lacinia tempus, urna lacus vulputate libero, a ornare massa lorem sed orci.",
+        "precio": 500, 
+        "urlImages": "images/wheyprotein.jpg", 
+        "altImages": "Creatina", 
+        "stock": 3
+    },
+    {
+        "id" : 3,
+        "nombre": "Bcaa",
+        "categoria": "Energía",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare, massa et lacinia tempus, urna lacus vulputate libero, a ornare massa lorem sed orci.",
+        "precio": 600, 
+        "urlImages": "images/wheyprotein.jpg", 
+        "altImages": "Bcaa", 
+        "stock": 4
+    },
+    {
+        "id" : 4,
+        "nombre": "Aminoácidos",
+        "categoria": "Energía",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare, massa et lacinia tempus, urna lacus vulputate libero, a ornare massa lorem sed orci.",
+        "precio": 700, 
+        "urlImages": "images/wheyprotein.jpg", 
+        "altImages": "Aminoácidos", 
+        "stock": 4
+    },
+    {
+        "id" : 5,
+        "nombre": "Quemador de Grasa",
+        "categoria": "Adelgazante",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare, massa et lacinia tempus, urna lacus vulputate libero, a ornare massa lorem sed orci.",
+        "precio": 250, 
+        "urlImages": "images/wheyprotein.jpg", 
+        "altImages": "Quemador de Grasa", 
+        "stock": 4
+    },
+    {
+        "id" : 6,
+        "nombre": "Colágenos",
+        "categoria": "Adelgazante",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare, massa et lacinia tempus, urna lacus vulputate libero, a ornare massa lorem sed orci.",
+        "precio": 1300, 
+        "urlImages": "images/wheyprotein.jpg", 
+        "altImages": "Colágenos", 
+        "stock": 4
+    }
+]
+    
